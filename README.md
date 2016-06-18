@@ -1,1 +1,1 @@
-# ThinkingInJavaExercises
+# Thinking In Java Exercises
